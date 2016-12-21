@@ -1,2 +1,2 @@
-# -QQ-
+# (QQ)
 Money for Humans
