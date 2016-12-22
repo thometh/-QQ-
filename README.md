@@ -1,3 +1,3 @@
 (QQ)
 Money for Humans
-[QQ.pdf](http://thometh.github.io/-QQ-/docs/QQ.pdf)
+[QQ.pdf](http://thometh.github.io/-QQ-/QQ.pdf)
